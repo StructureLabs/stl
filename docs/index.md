@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## share calcs anywhere
+## simple | modular | tools
 
 [**link to rivtlib code on Github**](https://github.com/ShareCalcs/rivtlib)
 
