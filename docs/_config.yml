@@ -1,6 +1,6 @@
 title: StructureLabs
 logo: /assets/img/stl9.png
-show_downloads: true
+show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
 description: simple modular tools
 google_analytics:
