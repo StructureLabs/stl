@@ -2,7 +2,7 @@ title: StructureLabs
 logo: /assets/img/stl9.png
 show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
-description: simple modular tools
+description: simple|modular|tools
 google_analytics:
 # Enable or disable the site search
 # Supports true (default) or false
